@@ -1,0 +1,4 @@
+node_modules
+dist
+.rolldown-vite
+*.log
